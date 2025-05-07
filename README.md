@@ -18,11 +18,6 @@ Creo en el poder de la colaboración para resolver problemas complejos. Mi objet
 *Tec de Monterrey · May 2024 – Presente*  
 - Organización de workshops, alianzas con empresas y coordinación del **Datathon** con +400 participantes.
 
-### 🥇 **Ascendion Science Fair – 1.º lugar**  
-*Jun 2024*  
-- Algoritmo para optimizar rutas turísticas (TSP).  
-- Estrategia de marketing, base de datos y pitch comercial.
-
 ---
 
 ## 🧠 Proyectos personales
