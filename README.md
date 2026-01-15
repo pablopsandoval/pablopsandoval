@@ -1,6 +1,6 @@
 # 👋 ¡Hola! Soy Pablo Pérez
 
-Estudiante de 6.º semestre en Ingeniería en Ciencia de Datos y Matemáticas, actualmente becario en Operaciones y Estrategias Digitales en **CEMEX**. Me considero una persona dedicada, comprometida con mi desarrollo continuo tanto técnico como personal.
+Estudiante de 6.º semestre en Ingeniería en Ciencia de Datos y Matemáticas. Me considero una persona dedicada, comprometida con mi desarrollo continuo tanto técnico como personal.
 
 Creo en el poder de la colaboración para resolver problemas complejos. Mi objetivo es aplicar mis conocimientos en proyectos que tengan un impacto real y positivo en la sociedad.
 
