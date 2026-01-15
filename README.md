@@ -9,13 +9,13 @@ Creo en el poder de la colaboración para resolver problemas complejos. Mi objet
 ## 🚀 Experiencia destacada
 
 ### 💼 **CEMEX** — Operations & Digital Strategies Intern  
-*Nov 2024 – Presente*  
+*Nov 2024 – Nov 2025*  
 - Automatización de alertas vía WhatsApp usando Python para mantenimiento y rendimiento.  
 - Detección de anomalías conectando con dispositivos IoT.  
 - Aplicación de *text analytics* en Databricks para prevenir accidentes con ML.
 
 ### 👥 **Vicepresidente - Data Science Club**  
-*Tec de Monterrey · May 2024 – Presente*  
+*Tec de Monterrey · May 2024 – Jun 2025*  
 - Organización de workshops, alianzas con empresas y coordinación del **Datathon** con +400 participantes.
 
 ---
