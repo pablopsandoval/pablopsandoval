@@ -1,52 +1,61 @@
-# 👋 ¡Hola! Soy Pablo Pérez
+# Hi, I'm Pablo Pérez Sandoval 👋
 
-Estudiante de 8.º semestre en Ingeniería en Ciencia de Datos y Matemáticas. Me considero una persona dedicada, comprometida con mi desarrollo continuo tanto técnico como personal.
+Data Science & Mathematics Engineer from Tecnológico de Monterrey, working at the intersection of **mathematical optimization, machine learning, and customer-facing solution engineering**.
 
-Creo en el poder de la colaboración para resolver problemas complejos. Mi objetivo es aplicar mis conocimientos en proyectos que tengan un impacto real y positivo en la sociedad.
-
----
-
-## 🚀 Experiencia destacada
-
-### 💼 **CEMEX** — Operations & Digital Strategies Intern  
-*Nov 2024 – Nov 2025*  
-- Automatización de alertas vía WhatsApp usando Python para mantenimiento y rendimiento.  
-- Detección de anomalías conectando con dispositivos IoT.  
-- Aplicación de *text analytics* en Databricks para prevenir accidentes con ML.
-
-### 👥 **Vicepresidente - Data Science Club**  
-*Tec de Monterrey · May 2024 – Jun 2025*  
-- Organización de workshops, alianzas con empresas y coordinación del **Datathon** con +400 participantes.
+I'm currently a **Solution Engineer at SWARM Engineering**, where I help agribusiness companies turn complex physical operations into optimization models. Before that, I worked as a Data Science consultant building linear programming models in Python. My client work is confidential, so this profile showcases my personal and academic projects.
 
 ---
 
-## 🧠 Proyectos personales
+## 🔭 What I work on
 
-- 🌳 Reforestación inteligente: algoritmo bioinspirado para distribución de plantas.  
-- 🏙 Predicción de calidad del aire en Monterrey usando datos meteorológicos y contaminantes.  
-- 🏀 **Hoop Hunch**: modelo ML para predecir resultados NBA vía API oficial y Random Forest / MLP.  
-- 🧠 Redes neuronales para identificación de imágenes.
-
----
-
-## 🛠 Tecnologías y herramientas
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Matlab](https://img.shields.io/badge/MATLAB-e16737?style=for-the-badge&logo=mathworks&logoColor=white)
-![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
-![GCP](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+- **Optimization:** translating real-world operational rules into constraints and objective functions
+- **Machine learning & deep learning:** time-series forecasting, computer vision, classification
+- **Topological Data Analysis (TDA):** using the shape of data as features for predictive models
+- **Applied AI:** exploring MCP and LLM agents to automate knowledge work
 
 ---
 
-## 📫 Contáctame
+## 🚀 Featured Projects
 
-📧 pablopsandoval13@gmail.com  
-🔗 [LinkedIn](https://linkedin.com/in/pablo-pérez-sandoval-24aa38315)
+### 📈 Neural Networks with TDA for Market Prediction
+`Python` `Keras` `Giotto-TDA` `XGBoost` `Parquet`
+
+A reproducible quantitative pipeline that combines topological features with deep learning for financial forecasting.
+- Built a reproducible quantitative panel of 10 tickers stored in Parquet
+- Trained a global **N-BEATS** model in Keras and benchmarked it against **XGBoost**
+- Integrated topological features (persistent homology) to translate market signals into decision metrics
+
+🔗 [View repository](https://github.com/pablopsandoval/REPO-NAME)
+
+### 🌱 Optimization & Data Modeling Portfolio
+`Python` `Jupyter` `TensorFlow`
+
+A collection of academic and personal projects in optimization and modeling:
+- **Bio-inspired optimization algorithm** for reforestation planning and logistics
+- **Convolutional neural networks** for image classification
+- **Air quality prediction** from daily meteorological data
+
+🔗 [View repository](https://github.com/pablopsandoval/REPO-NAME)
 
 ---
 
-> *"Aspiro a contribuir con proyectos que mejoren la vida de las personas y generen un impacto positivo en mi comunidad."*
+## 🛠️ Tech Stack
 
+**Languages:** Python · SQL · R · C++ · MATLAB · JavaScript
+**Data & Cloud:** Snowflake · Databricks · GCP · Git · Parquet
+**Data Science & Optimization:** Linear Programming · Pandas · NumPy · Scikit-Learn · TensorFlow · Keras · XGBoost · Giotto-TDA
+
+---
+
+## 🏆 Leadership
+
+**Datathon Director & Vice President, Data Science Club (Tec de Monterrey).** Led a national Datathon with 400+ participants and a 30-member executive team, partnering with sponsors such as OXXO, Hey Banco, and Credifiel.
+
+---
+
+## 📫 Let's connect
+
+- 💼 [LinkedIn](https://linkedin.com/in/pablo-pérez-sandoval)
+- ✉️ pablopsandoval13@gmail.com
+
+🌎 Spanish (native) · English (C1)
